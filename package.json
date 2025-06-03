@@ -5,6 +5,12 @@
     "@solana/wallet-adapter-react": "^0.15.38",
     "@solana/wallet-adapter-react-ui": "^0.9.38",
     "@solana/wallet-adapter-sollet": "^0.11.17",
-    "@solana/wallet-adapter-wallets": "^0.19.36"
+    "@solana/wallet-adapter-wallets": "^0.19.36",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "overrides": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
